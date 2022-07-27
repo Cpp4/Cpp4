@@ -1,4 +1,4 @@
-👋 Hi, I’m @Cpp4
+👋 Hi, I’m @SemiCollar
 👀 I’m interested in coding via C++ and collaborative projects in Game Development;
 🌱 I’m currently learning Data-Structures in C/C++; 
 💞️ I’m looking to collaborate on Game Development;
